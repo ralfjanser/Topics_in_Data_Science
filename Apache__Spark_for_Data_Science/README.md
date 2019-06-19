@@ -1,5 +1,5 @@
 
-__How to get started with Apache Spark for Data Science? __  
+__How to get started with Apache Spark for Data Science?__  
 So here is a short list of recommendations, articles, tutorials and more for PySpark and Spark in general:  
 
 -1. Learn programming in Python before going into PySpark.  
